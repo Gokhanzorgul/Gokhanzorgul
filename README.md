@@ -1,7 +1,5 @@
 Merhaba 👋 İsmim Gökhan Zorgül.
 
-Bugün Mobil Yazılım Uzmanı olarak @M5-Teknoloji'de görev almaktayım. Mobil uygulama ve Admin Paneli alanlarında React & ReactNative developer olarak fayda sağlamaktayım.
+Frontend developer olarak çalışmaktayım, ilgi alanlarım React,Vue,ReactNative olmakla birlikte yenilikçi ve çalışmayı seven bir yapıya sahibim.
 
 Kurumsaldaki hayatımın yanısıra çeşitli platformlarda yazılım sektörü ve yazılım geliştirme ekseninde içerik üretiyor ve konuşmalar yapıyorum.
-
-Daha fazla detay için www.linkedin.com/in/gokhanzorgul/ adresine uğrayabilirsiniz.
